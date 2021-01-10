@@ -1,7 +1,7 @@
 ---
 title: Simple Jekyll - A Jekyll Site Powered By Simple.css
 header: Simple Jekyll {}
-description: A Jekyll Site Powered By Simple.css
+description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
 ---
