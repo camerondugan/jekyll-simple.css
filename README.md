@@ -1,2 +1,2 @@
-# jekyll-simple.css
-A Jekyll website that's based on Simple.css
+This is a symbolic fork of jekyll-simple.css...
+The actual forked repo is over on [https://gitlab.com/cameron.dugan/camerondugan.com](Gitlab)
